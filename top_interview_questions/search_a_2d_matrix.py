@@ -20,3 +20,5 @@ class Solution(object):
                     col -= 1
             else:
                 return False
+
+
